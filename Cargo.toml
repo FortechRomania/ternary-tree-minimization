@@ -1,0 +1,7 @@
+[package]
+name = "tt-min"
+version = "0.1.0"
+authors = ["Darius Galanton <fortech.galanton@extaccount.com>"]
+
+[dependencies]
+linked-hash-map = "0.5.2"
